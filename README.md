@@ -1,1 +1,1 @@
-# -gist-index
+# gist-index
